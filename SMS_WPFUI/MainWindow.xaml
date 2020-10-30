@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:SMS_WPFUI"
         mc:Ignorable="d"
         Title="Student Management" Height="450" Width="800">
-    <Grid>
+    <Grid Name="grid">
         <Label x:Name="lbRollNo_Copy" Content="RollNo" HorizontalAlignment="Left" Margin="54,25,0,0" VerticalAlignment="Top" RenderTransformOrigin="-13.961,-1.149" Height="41" Width="111"/>
         <TextBox x:Name="txtRollNo_Copy" HorizontalAlignment="Left" Height="41" Margin="220,11,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="188"/>
         <Label x:Name="lbName" Content="Name" HorizontalAlignment="Left" Margin="54,71,0,0" VerticalAlignment="Top" RenderTransformOrigin="-13.649,-0.779" Width="111" Height="39"/>

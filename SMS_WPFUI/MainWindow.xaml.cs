@@ -56,7 +56,8 @@ namespace SMS_WPFUI
             {
                 System.Windows.Forms.MessageBox.Show(e1.Message,"student management system");
             }
-            
+            //This adds the record to the table
+
         }
 
         private void btnAlter_Click(object sender, RoutedEventArgs e)
